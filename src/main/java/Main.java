@@ -6,12 +6,8 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 
 import javax.imageio.ImageIO;
-import javax.imageio.stream.ImageOutputStreamImpl;
-import java.io.BufferedOutputStream;
 import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
 
 public class Main {
 
